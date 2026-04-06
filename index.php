@@ -19,7 +19,7 @@
                 <div class="rope-indicator" id="rope-indicator">50%</div>
             </div>
             <div class="score right-score">
-                <span>  ف    ريق اليمين</span>
+                <span>  فريق اليمين</span>
                 <span id="right-score">0</span>
             </div>
         </div>
