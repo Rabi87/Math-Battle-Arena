@@ -9,7 +9,7 @@
 <body>
     <div class="game-container">
         <h1>🏆 لعبة شد الحبل 🏆</h1>
-        <h1>🏆 لعبة شد الحبل 🏆</h1>
+      
         
         <div class="score-board">
             <div class="score left-score">
